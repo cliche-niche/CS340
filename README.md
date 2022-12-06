@@ -1,4 +1,4 @@
-This repository contains the programming assignments we had to submit in the course CS340: Theory of Computation (2022-23 I Sem.) in a team of three. <br>
+This repository contains assignments we had to submit in the course CS340: Theory of Computation (2022-23 I Sem.) in a team of three and my lecture notes. <br>
 4 assignments were planned but only 2 were released :^)
 
 + [Assignment 1](./Assignment1.pdf): This assignment contained 16 questions, each worth 10 marks, based on topics pertaining to Finite automatas, Regular languages, Regular Expressions, etc. <br> 3 marks were deducted in the second question with the remark:
